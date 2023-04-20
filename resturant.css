@@ -1,0 +1,40 @@
+ul{
+	margin: 0px;
+	padding: 0px;
+	
+
+}
+ul{justify-content: center;
+	align-items: center;
+	text-align: center; 
+	
+
+	
+}
+ul li{
+	display: inline-block;
+
+}
+li a{
+	text-decoration:none;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+    color: #fff;
+    padding: 20px;
+   
+    align-content: center;
+}
+
+
+nav{
+	margin: 0px;
+	padding: 10px;
+
+	background: #131416;
+	
+}
+
+img{
+	background-size: cover;
+}
